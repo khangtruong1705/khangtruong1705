@@ -3,12 +3,12 @@
 - 🔭 I graduated from Ho Chi Minh City University of Technology
 - 📫 How to reach me: truonghoangkhang1705@gmail.com
 
-## Connect with me
+<h3>Connect with me</h3>
 <a href="https://www.facebook.com/bon.ne.1705">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" width="40"/>
 </a>
 
-## Language
+<h3>Language</h3>
 <a href="https://www.javascript.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40"/>
 </a>&nbsp;
@@ -19,7 +19,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="SQL" width="40"/>
 </a>
 
-## Framework & Library
+<h3>Framework & Library</h3> 
 <a href="https://reactjs.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="ReactJS" width="40"/>
 </a>&nbsp;
@@ -30,7 +30,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="FastAPI" width="40"/>
 </a>
 
-## Database & Tools
+<h3>Database & Tools</h3 
 <a href="https://www.postgresql.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="40"/>
 </a>&nbsp;
