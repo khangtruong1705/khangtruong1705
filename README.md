@@ -18,7 +18,6 @@
 <a href="https://www.w3schools.com/sql/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="SQL" width="40"/>
 </a>
-
 <h3>Framework & Library</h3> 
 <a href="https://reactjs.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" alt="ReactJS" width="40"/>
@@ -29,7 +28,6 @@
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="FastAPI" width="40"/>
 </a>
-
 <h3>Database & Tools</h3 
 <a href="https://www.postgresql.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="40"/>
@@ -45,7 +43,7 @@
 </a>&nbsp;
 <a href="https://min.io/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="MinIO" width="40"/>
-</a>&nbsp;
+</a>
 <a href="https://airflow.apache.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Airflow" width="40"/>
 </a>&nbsp;
