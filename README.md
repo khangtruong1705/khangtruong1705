@@ -28,9 +28,6 @@
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://logo.svgcdn.com/l/fastapi.png" alt="FastAPI" width="40"/>
 </a>
-<a href="https://fastapi.tiangolo.com/">
-  <img src="https://logo.svgcdn.com/l/fastapi.png" alt="FastAPI" width="40"/>
-</a>
 <h3>Database & Tools</h3 
 <a href="https://www.postgresql.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="40"/>
@@ -45,11 +42,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40"/>
 </a>&nbsp;
 <a href="https://min.io/">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="MinIO" width="40"/>
+  <img src="https://logo.svgcdn.com/s/minio-dark.png" alt="MinIO" width="40"/>
 </a>
 <a href="https://airflow.apache.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Airflow" width="40"/>
-</a>&nbsp;
-<a href="https://nifi.apache.org/">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919844.png" alt="NiFi" width="40"/>
 </a>
+
