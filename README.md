@@ -28,7 +28,7 @@
   <img src="https://logo.svgcdn.com/l/fastapi.png" alt="FastAPI" width="40"/>
 </a>
 <h3>Database & Tools</h3>
-<a href="[https://www.mysql.com/]">
+<a href="https://www.postgresql.org/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="40"/>
 </a>
 <a href="https://www.mysql.com/">
