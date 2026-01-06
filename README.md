@@ -43,9 +43,6 @@
 <a href="https://airflow.apache.org/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apacheairflow.svg" alt="Apache Airflow" width="40"/>
 </a>
-<a href="https://airflow.apache.org/">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="Apache Airflow" width="40"/>
-</a>
 <a href="https://www.docker.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40"/>
 </a>
