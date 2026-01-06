@@ -38,7 +38,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40"/>
 </a>
 <a href="https://pandas.pydata.org/">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Pandas" width="40"/>
+  <img src="https://logo.svgcdn.com/logos/pandas.svg" alt="Pandas" width="40"/>
 </a>
 <a href="https://airflow.apache.org/">
   <img src="https://logo.svgcdn.com/logos/airflow.svg" alt="Apache Airflow" width="40"/>
