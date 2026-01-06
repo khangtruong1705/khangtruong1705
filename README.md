@@ -37,8 +37,17 @@
 <a href="https://www.mysql.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40"/>
 </a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Pandas" width="40"/>
+</a>
+<a href="https://airflow.apache.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apacheairflow.svg" alt="Apache Airflow" width="40"/>
+</a>
 <a href="https://www.docker.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40"/>
+</a>
+<a href="https://kafka.apache.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apachekafka.svg" alt="Apache Kafka" width="40"/>
 </a>
 <a href="https://github.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40"/>
