@@ -7,6 +7,9 @@
 <a href="https://www.facebook.com/bon.ne.1705">
   <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="Facebook" width="40"/>
 </a>
+<a href="https://www.linkedin.com/in/hoang-khang-truong">
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="40"/>
+</a>
 <h3>Language</h3>
 <a href="https://www.javascript.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40"/>
